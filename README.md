@@ -15,6 +15,7 @@ définition du champ) :
     bielorussie|Belarus
     bosnie|Bosnia
     bulgarie|Bulgaria
+    chypre|Cyprus
     croatie|Croatia
     dannemark|Denmark
     espagne|Spain
@@ -30,6 +31,7 @@ définition du champ) :
     lituanie|Lithuania
     luxembourg|Luxembourg
     macedoine|Macedonia
+    malte|Malta
     moldavie|Moldova
     montenegro|Montenegro
     norvege|Norway
