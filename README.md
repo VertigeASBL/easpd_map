@@ -8,7 +8,7 @@ type List(text) avec comme nom machine "easpd_country". Les valeurs
 permises pour cette liste sont les suivantes (à copier-coller dans la
 définition du champ) :
 
-    albanie|Albany
+    albanie|Albania
     allemagne|Germany
     autriche|Austria
     belgique|Belgium
