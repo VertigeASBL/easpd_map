@@ -58,7 +58,7 @@ function easpd_map_view () {
     $href = url("node/".$nid);
 
     // Produire le javascript qui s'occupe des liens
-    $map .= 'jQuery("#'.$name.'").attr("class", "hovering").click(function () {window.location = "'.$href.'";});';
+    $map .= 'jQuery("#'.$name.'").attr("class", "hovering").html("<title>'.$title.'</title>").click(function () {window.location = "'.$href.'";});';
   }
 
   $map .= '
