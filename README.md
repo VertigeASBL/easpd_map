@@ -30,6 +30,7 @@ définition du champ) :
     hongrie|Hungary
     iceland|Iceland
     ireland|Ireland
+    israel|Israel
     italie|Italy
     lettonie|Latvia
     lituanie|Lithuania
