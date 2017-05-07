@@ -10,7 +10,10 @@ définition du champ) :
 
     albanie|Albania
     allemagne|Germany
+    andorre|Andorra
     autriche|Austria
+    armenie|Armenia
+    azerbaijan|Azerbaijan
     belgique|Belgium
     bielorussie|Belarus
     bosnie|Bosnia
@@ -23,16 +26,19 @@ définition du champ) :
     finlande|Finland
     france|France
     grece|Greece
+    georgie|Georgia
     hongrie|Hungary
     iceland|Iceland
     ireland|Ireland
     italie|Italy
     lettonie|Latvia
     lituanie|Lithuania
+    liechtenstein|Lichtenstein
     luxembourg|Luxembourg
     macedoine|Macedonia
     malte|Malta
     moldavie|Moldova
+    monaco|Monaco
     montenegro|Montenegro
     norvege|Norway
     paysBas|Holland
@@ -41,6 +47,7 @@ définition du champ) :
     republiqueTcheque|Czech Republic
     roumanie|Romania
     russie|Russia
+    sanMarino|San Marino
     serbie|Serbia
     slovaquie|Slovakia
     slovenie|Slovenia
